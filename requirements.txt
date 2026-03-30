@@ -1,0 +1,22 @@
+# DA-MoE: Diversity-Aware Mixture-of-Experts for Time-Series Forecasting
+# Core dependencies
+
+# Deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Numerical / scientific
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Machine learning utilities
+scikit-learn>=1.2.0
+
+# Data handling
+pandas>=2.0.0
+
+# Visualisation (optional, for plotting results)
+matplotlib>=3.7.0
+
+# Progress bars (optional)
+tqdm>=4.65.0
